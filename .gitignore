@@ -1,0 +1,81 @@
+# --- Arquivos de IDE/Sistema ---
+*.iml
+.gradle
+.DS_Store
+*.swp
+*.swo
+*.log
+*.log.*
+*.bak
+*.tmp
+*.orig
+*~
+
+# --- Android Studio ---
+/.idea/
+!.idea/codeStyles/
+!.idea/copyright/
+/local.properties
+/captures/
+/output.json
+
+# --- Build/Compilação ---
+*.apk
+*.aab
+*.aar
+*.ap_
+*.dex
+*.class
+**/bin/
+**/gen/
+**/out/
+**/build/
+**/production/
+**/.externalNativeBuild/
+**/.cxx/
+**/release/
+**/debug/
+
+# --- Gradle ---
+!gradle-wrapper.properties
+gradle.properties
+
+# --- Ambiente/Configurações ---
+**/local_env/
+**/env/
+**/.env
+**/*.env
+**/keystore/
+**/*.keystore
+**/*.jks
+**/*.cert
+**/*.pfx
+
+# --- Outros ---
+**/fastlane/report.xml
+**/fastlane/Preview.html
+**/fastlane/screenshots
+**/fastlane/test_output
+**/.metadata
+**/.recommenders
+**/__pycache__/
+**/*.pyc
+**/node_modules/
+**/jspm_packages/
+**/web_modules/
+**/.cache/
+**/.nx/
+**/.npm/
+**/.yarn/
+
+# Arquivos específicos do Android
+google-services.json
+firebase-config.json
+
+# Mantenha o wrapper mas ignore arquivos temporários
+!gradle/wrapper/gradle-wrapper.jar
+.gradle/wrapper/dists/
+
+# Ignore tudo na pasta build exceto se for necessário
+build/
+!build/**/src/
