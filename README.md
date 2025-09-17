@@ -237,7 +237,7 @@ Este projeto está sob licença GPL-3.0 - veja o arquivo LICENSE para detalhes.
 
 🏆 Reconhecimentos
 
-    👨‍👩‍👧‍👦 Minha família e amigo Wisllen Boit que testaram e deram ideias! 
+    👨‍👩‍👧‍👦 Minha família e amigo Wisllen que testaram e deram ideias! 
 -----------------------------------------------------------------------------------------------
 
 <div align="center">
