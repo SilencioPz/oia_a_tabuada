@@ -2,11 +2,6 @@
 -----------------------------------------------------------------------------------------------
 
 <div align="center">
-
-https://img.shields.io/badge/Android-14%252B-brightgreen?style=for-the-badge&logo=android
-https://img.shields.io/badge/Kotlin-100%2525-purple?style=for-the-badge&logo=kotlin
-https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge
-
 O app que transforma o tempo de tela em tempo de aprendizado! ✨
 </div>
 
