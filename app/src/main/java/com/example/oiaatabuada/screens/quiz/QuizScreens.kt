@@ -20,7 +20,7 @@ import com.example.oiaatabuada.R
 @Composable
 fun LogoHeader() {
     Image(
-        painter = painterResource(id = R.drawable.silenciopz_logo),
+        painter = painterResource(id = R.drawable.silenciopz_logo2),
         contentDescription = "Logo SilencioPZ",
         modifier = Modifier
             .size(120.dp)
